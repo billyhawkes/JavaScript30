@@ -1,0 +1,9 @@
+- can select an element by attribute using:
+	`element|class|id[attribute="${var}"]` 
+- in an event listener function, 'this' is equal to the element 
+listened to
+- can listen for a transition to end with event:
+	'transitionend'
+- audio.play() starts an audio tag, audio.currentTime = 0 resets it
+- element.classList.add|remove('classname') changes that class
+- data-'name' can be used to make your own attributes
