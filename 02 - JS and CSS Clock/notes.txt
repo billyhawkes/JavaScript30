@@ -1,0 +1,6 @@
+- setInterval allows you to run a function at a certain interval in seconds
+- can rotate elements using transform: rotate(#deg);
+- transition: all 0.5s; will transition to whatever change you make
+- can change transition timing using cubic-bezier to customize it
+- element.style.property = allows you to change css of element
+- date = new Date(); creates a date object that can be used to find current time in min, sec, and hours
