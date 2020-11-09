@@ -1,0 +1,7 @@
+- (--name: value;) creates a css property/variable, var(--name) references that variable
+- this keyword in an event function references the event listened too
+- document.documentElement references the root element
+- root.style.setProperty('--name', value) allows you to set a css property created in the root element
+- might be easier to just select all inputs and use 'this' in a foreach to identify and assign values in a a similar way for each
+- input event tracks changes in and input field 
+ 
