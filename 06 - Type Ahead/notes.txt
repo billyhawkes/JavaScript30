@@ -1,0 +1,7 @@
+- Need to use this.value not this.textContent when monitoring an input change
+- .match(RegExp) you can match a string with a regular expression using .match
+- can create regular expressions using (const regex = new RegExp(this.value, 'gi'))(g - global, whole string, i - case insensitive)
+- Instead of updating the dom for every li, get the final list and then input it as a whole
+
+Need to learn
+- Regular expressions in JavaScript
