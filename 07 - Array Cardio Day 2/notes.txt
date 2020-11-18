@@ -1,0 +1,5 @@
+- .some() checks if a condition is met for any element
+- .every() checks if a condition is met for every element
+- ...array splits an array into its elements
+- splice(index, 2) will delete two elements, the index and the one after
+- .find(), returns the first element that meets the condition
