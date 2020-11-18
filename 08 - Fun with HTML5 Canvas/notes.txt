@@ -1,0 +1,5 @@
+- ctx is what you actually draw on
+- ctx context ('2d') sets it to a 2d space
+- .strokeStyle sets the html color
+- .lineCap and lineJoin round out the edges of the line
+- Drawing a Line - ctx.beginPath() *starts line, ctx.moveTo(startx, starty), ctx.lineTo(lastx, lasty), ctx.stroke() *ends line
