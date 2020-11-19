@@ -1,0 +1,9 @@
+- Right clicking an element and adding a break point (on attribute for example) allows you to monitor changes
+- console.log('hello %s', 'world') interpolates the %s as world (the other argument) *ES6 backticks are better
+- console.log('%c large text', 'font-size: 50px; background-color: blue;'), %c applies style to text with css argument
+- console.warn('warning');, console.error('error');, console.info('fun fact');, console.assert(1 == 2, 'wrong') *runs if false, console.table(array);
+- console.clear();
+- *** console.dir(element); allows you to check properties of element
+- console.group(name) and .groupEnd(name) group all inner logs by the argument name (can also use groupCollapsed to hide them by default)
+- console.count(string); counts how many times that string was run in count
+- console.time('fetching'); console.timeEnd('fetching'); counts the time inbetween time and timeEnd
