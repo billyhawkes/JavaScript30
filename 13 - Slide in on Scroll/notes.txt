@@ -1,0 +1,2 @@
+- debouce function decreases the amount of times a function can run to the second
+- 
